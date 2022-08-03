@@ -79,7 +79,8 @@ Game mechanics / features:
     - Main Menu Button: Back to main menu scene when pressed.
     - Tutorial Button: Allow players to better understand the game rule and concept when pressed.
     - All the buttons above are well polished with UI fit the theme.
-## PLAYTESTING FEEDBACK We notice that there are two major feedback from playtesting
+## PLAYTESTING FEEDBACK 
+We notice that there are two major feedback from playtesting
 - Hard to know what to do next
     - To solve that, we add a mandatory guide each time the player enter the castle, introducing the basic control and what they can do. 
 - Player can do nothing in combat
